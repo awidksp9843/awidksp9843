@@ -3,7 +3,7 @@
 ## Introduction
 안녕하세요.
 
-영남대학교 컴퓨터 공학과입니다.
+영남대학교 컴퓨터공학과에 속해있습입니다.
 
 **프로그래밍**에 관심이 많습니다.
 
@@ -15,4 +15,4 @@ print("Hello World")
 - 영남대학교 컴퓨터공학과
 
 ## Links
-- E-mail - leejs0@yu.ac.kr
+- E-mail - leejs0 [at] yu.ac.kr
