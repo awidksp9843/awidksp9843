@@ -15,4 +15,4 @@ print("Hello World")
 - 영남대학교 컴퓨터공학과
 
 ## Links
-- E-mail - leejs0 [at] yu.ac.kr
+- E-mail - ???? [at] yu.ac.kr
